@@ -67,6 +67,5 @@ This script is intended **for educational and internal auditing purposes only**.
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 📌 **Author:** Gian Silva  
-📌 **Contact:** [your-email@example.com](mailto:your-email@example.com)
 
 
